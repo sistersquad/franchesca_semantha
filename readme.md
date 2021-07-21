@@ -8,8 +8,11 @@ Just download or clone the repo!
 
 
 ## Usage
+### note:
+this is for educational perposes only, only use this on yourself or with a targets consent 
 
-Get your victim to download and execute the file, this could be through:
+
+Get your target to download and execute the file, this could be through:
 ```
 A trojan
 A phishing attack (sms, email, etc.)
@@ -24,7 +27,7 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 Please make sure to update tests as appropriate.
 
 ## License
-check the licence.md
+check licence.md
 
 or go view the licence [here](https://choosealicense.com/licenses/gpl-3.0/)
 
